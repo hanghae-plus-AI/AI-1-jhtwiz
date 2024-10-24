@@ -8,6 +8,6 @@
 
 300 step마다 train loss와 eval loss를 측정했습니다.
 
-Train loss
+Train loss https://api.wandb.ai/links/jhtwiz00/w18l6e1s
 
-Eval loss
+Eval loss https://api.wandb.ai/links/jhtwiz00/i6iymi38
